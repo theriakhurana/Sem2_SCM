@@ -1,0 +1,3 @@
+Used insert key (fn+delete) to edit text in vim editor.
+entered the file once again
+hellooooooooo
